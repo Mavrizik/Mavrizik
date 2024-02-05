@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mavrizik
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning  JavaScript
 - 📫 How to reach me [facebook](https://www.facebook.com/profile.php?id=100094436626753)
 
 <!---
