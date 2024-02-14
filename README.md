@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mavrizik
-- 👀 I’m interested in ...
+- 👀 I’m interested in football, tenis
 - 🌱 I’m currently learning  JavaScript
 - 📫 How to reach me [facebook](https://www.facebook.com/profile.php?id=100094436626753)
 
